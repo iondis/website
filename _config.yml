@@ -24,3 +24,5 @@ keep_files:
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
